@@ -1,0 +1,36 @@
+body{
+ background-image: url(http://a2.espncdn.com/photo/2013/0519/as_surf_charlie_pujol_2048.jpg);
+  background-size: auto;
+  color: yellow;
+}
+
+h1,h2{
+  text-align: center;
+  font-family: 'Lustria';
+}
+
+p{
+  font-family: 'Lato';
+}
+
+.containers{
+  float: left;
+  width: 100%;
+}
+
+.surfers{
+  display: inline-block;
+  margin-left: 10em;
+}
+
+img{
+  width: 200px;
+  height: 300px;
+}
+
+#text{
+  position: absolute;
+  top: 500px;
+  font-size: 24px;
+  text-align: center;
+}
